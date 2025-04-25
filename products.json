@@ -1,0 +1,196 @@
+
+
+  {
+    "products": [
+      {
+        "id": 1,
+        "name": "Hoya Obovata",
+        "price": 64.00,
+        "image": "images/1.jpg",
+        "category": "indoor",
+        "rating":3.5,
+        "description": "This easy to care for variegated plant is a must-have staple for any plant lover. Each round leaf has its own unique light silver splashed leaf pattern. Keep away from direct light and low light. We recommend watering whenever the top layer of soil is feeling dry, although these plants are a little bit more drought tolerant that many other tropicals"
+      },
+      {
+        "id": 2,
+        "name": "Monstera Deliciosa",
+        "price": 224.90,
+        "image": "images/2.jpg",
+        "category": "succulent",
+        "rating":4.5,
+
+        "description": "Monstera Deliciosa (Swiss cheese) plant is a lush tropical vine with large, glossy leaves, some with holes, the reason for its common name. The youngest leaves are a bright green and usually entire (no lobes). As the leaves grow they develop narrow, elongated, deeply cut lobes or rounded holes."
+      },
+      {
+        "id": 3,
+        "name": "Zz Plants",
+        "price": 124.90,
+        "image": "images/3.jpg",
+        "category": "indoor",
+        "rating":5,
+
+        "description": "Zamioculcas zamiifolia, commonly known as ZZ plant, is a flowering plant in the family Araceae. It is native to eastern Africa, from southern Kenya to northeastern South Africa. It is the only species in the genus Zamioculcas."
+      },
+      {
+        "id": 4,
+        "name": "Bird of Paradise",
+        "price": 249.90,
+        "image": "images/4.jpg",
+        "category": "outdoor",
+        "rating":3,
+
+        "description": "The Bird of Paradise is a tropical plant that can grow up to 6 feet tall. It has large, banana-like leaves and produces stunning orange and blue flowers that resemble a bird in flight. This plant thrives in bright, indirect light and requires regular watering to keep the soil moist."
+      },
+      {
+        "id": 5,
+        "name": "Calathea Beauty Star",
+        "price": 79.90,
+        "image": "images/5.jpg",
+        "category": "indoor",
+        "rating":4,
+
+        "description": "Calathea Beauty Star is a stunning houseplant with large, oval-shaped leaves that feature a unique pattern of dark green and light green stripes. This plant is known for its ability to thrive in low light conditions and prefers to be kept in a humid environment. Regular misting and watering are essential to keep the leaves looking their best."
+      },
+      {
+        "id": 6,
+        "name": "Birdnest Japanese",
+        "price": 84.90,
+        "image": "images/6.jpg",
+        "category": "succulent",
+        "rating":3.5,
+
+        "description": "The Birdnest Japanese plant is a unique succulent that features rosettes of thick, fleshy leaves that resemble a bird's nest. This plant is drought-tolerant and prefers bright, indirect light. It requires minimal watering, making it an excellent choice for beginners or those with busy lifestyles."
+      },
+      {
+        "id": 7,
+        "name": "Alocasia Regal Shield",
+        "price": 85,
+        "image": "images/7.jpg",
+        "category": "succulent",
+        "rating":3.5,
+
+        "description": "Alocasia Regal Shield is a striking houseplant with large, arrow-shaped leaves that feature a deep green color and prominent veins. This plant prefers bright, indirect light and requires regular watering to keep the soil moist. It is known for its ability to thrive in high humidity environments, making it an excellent choice for bathrooms or kitchens."
+      },
+      {
+        "id": 8,
+        "name": "Aralia Ming",
+        "price": 284.90,
+        "image": "images/8.jpg",
+        "category": "succulent",
+        "rating":2,
+
+        "description": "Aralia Ming is a unique houseplant with glossy, dark green leaves that are shaped like small umbrellas. This plant prefers bright, indirect light and requires regular watering to keep the soil moist. It is known for its ability to thrive in low humidity environments, making it an excellent choice for offices or other dry spaces."
+      },
+      {
+        "id": 9,
+        "name": "Calathea Rufibarba",
+        "price": 109.90,
+        "image": "images/9.jpg",
+        "category": "indoor",
+        "rating":4.5,
+
+        "description": "Calathea Rufibarba is a stunning houseplant with large, oval-shaped leaves that feature a unique pattern of dark green and light green stripes. This plant is known for its ability to thrive in low light conditions and prefers to be kept in a humid environment. Regular misting and watering are essential to keep the leaves looking their best."
+      },
+      {
+        "id": 10,
+        "name": "Dracaena Lisa",
+        "price": 114.90,
+        "image": "images/10.jpg",
+        "category": "indoor",
+        "rating":5,
+
+        "description": "Dracaena Lisa is a unique houseplant with long, narrow leaves that are shaped like swords. This plant prefers bright, indirect light and requires regular watering to keep the soil moist. It is known for its ability to thrive in low humidity environments, making it an excellent choice for offices or other dry spaces."
+      },
+      {
+        "id": 11,
+        "name": "Euphorbia Ingens",
+        "price": 104.90,
+        "image": "images/11.jpg",
+        "category": "succulent",
+        "rating":3.5,
+
+        "description": "Euphorbia Ingens is a unique succulent that features tall, upright stems with thick, fleshy leaves. This plant prefers bright, indirect light and requires minimal watering, making it an excellent choice for beginners or those with busy lifestyles. It is known for its ability to thrive in low humidity environments, making it an excellent choice for offices or other dry spaces."
+      },
+      {
+        "id": 12,
+        "name": "Ficus Decora Burgundy",
+        "price": 89.90,
+        "image": "images/12.jpg",
+        "category": "indoor",
+        "rating":3.5,
+
+        "description": "Ficus Decora Burgundy is a stunning houseplant with large, glossy leaves that feature a deep burgundy color. This plant prefers bright, indirect light and requires regular watering to keep the soil moist. It is known for its ability to thrive in low humidity environments, making it an excellent choice for offices or other dry spaces."
+      },
+      {
+        "id": 13,
+        "name": "Ficus Decora Cabernet",
+        "price": 124.90,
+        "image": "images/13.jpg",
+        "category": "succulent",
+        "rating":4,
+
+        "description": "Ficus Decora Cabernet is a unique houseplant with large, glossy leaves that feature a deep burgundy color. This plant prefers bright, indirect light and requires regular watering to keep the soil moist. It is known for its ability to thrive in low humidity environments, making it an excellent choice for offices or other dry spaces."
+      },
+      {
+        "id": 14,
+        "name": "Golden Pothos Pole",
+        "price": 74.90,
+        "image": "images/14.jpg",
+        "category": "succulent",
+        "rating":4.0,
+        "description": "Golden Pothos Pole is a unique houseplant with long, trailing vines that are covered in small, heart-shaped leaves. This plant prefers bright, indirect light and requires regular watering to keep the soil moist. It is known for its ability to thrive in low humidity environments, making it an excellent choice for offices or other dry spaces."
+      },
+      {
+        "id": 15,
+        "name": "Pachira Braid",
+        "price": 74.90,
+        "image": "images/15.jpg",
+        "rating":3.5,
+        "category": "indoor",
+        "description":"Pachira Braid known as the Money Tree, a stunning addition to any indoor space. With its unique braided trunk and lush, glossy leaves, this plant not only enhances your decor but is also believed to bring good fortune and prosperity into your home."
+      },
+      {
+        "id": 16,
+        "name": "Sansevieria Golden Flame",
+        "price": 49.90,
+        "image": "images/16.jpg",
+        "category": "indoor",
+        "rating":4,
+        "description": "'Gold Flame' is variegated, hybrid selection of snake plant that features dark green, sword-shaped leaves with contrasting, yellow-green, vertical stripes."
+      },      {
+        "id": 17,
+        "name": "Sansevieria Laurentii",
+        "price": 79.90,
+        "image": "images/17.jpg",
+        "category": "indoor",
+        "rating":5,
+        "description": "The Snake Plant Laurentii, or Sansevieria trifasciata 'Laurentii', is a succulent plant characterized by its upright sword-like leaves with vibrant yellow edges."
+      },      {
+        "id": 18,
+        "name": "Peperomia Lemon Lime",
+        "price": 32.90,
+        "image": "images/18.jpg",
+        "category": "indoor",
+        "rating":5,
+        "description": "A beautiful plant, grown primarily for its attractive variegated foliage in shades of lime green, yellow and chartreuse"
+      },      {
+        "id": 19,
+        "name": "Pilea Peperomioides",
+        "price": 24.00,
+        "image": "images/19.jpg",
+        "category": "succulent",
+        "rating":3,
+        "description": "Pilea peperomioides is an erect, evergreen perennial plant, with shiny, dark green, circular leaves up to 10 cm (4 in) in diameter on long petioles."
+      },      {
+        "id": 20,
+        "name": "Spathiphyllum",
+        "price": 94.90,
+        "image": "images/20.jpg",
+        "category": "indoor",
+        "rating":3.5,
+        "description": "Spathiphyllum is a unique houseplant with large, glossy leaves that feature a deep green color. This plant prefers bright, indirect light and requires regular watering to keep the soil moist. It is known for its ability to thrive in low humidity environments, making it an excellent choice for offices or other dry spaces."
+      }
+    ]
+  }
+  
+  

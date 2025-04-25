@@ -1,0 +1,80 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Poppins', sans-serif;
+    background-color: #f9f9f7;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+  
+  .shipped-container {
+    background-color: #fff;
+    padding: 40px 30px;
+    border-radius: 12px;
+    box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    max-width: 400px;
+    width: 90%;
+  }
+  @keyframes moveTruck {
+    0% {
+      transform: translateX(0px);
+    }
+    100% {
+      transform: translateX(15px);
+    }
+  }
+  .shipped-icon {
+    font-size: 60px;
+    color: #4a6f57;
+    margin-bottom: 20px;
+    animation: moveTruck 2s infinite alternate ease-in-out;
+
+  }
+  
+  h1 {
+    font-size: 24px;
+    color: #2e7d32;
+    margin-bottom: 10px;
+  }
+  
+  .shipped-message {
+    color: #666;
+    margin-bottom: 30px;
+    font-size: 16px;
+  }
+  
+  .back-home-btn {
+    background-color: #4a6f57;
+    color: #fff;
+    padding: 12px 20px;
+    border-radius: 8px;
+    text-decoration: none;
+    font-weight: 600;
+    transition: background-color 0.3s ease;
+  }
+  
+  .back-home-btn:hover {
+    background-color: #3a5a47;
+  }
+  
+  @media (max-width: 480px) {
+    .shipped-container {
+      padding: 30px 20px;
+    }
+    
+    .shipped-icon {
+      font-size: 50px;
+    }
+    
+    h1 {
+      font-size: 20px;
+    }
+    
+    .shipped-message {
+      font-size: 14px;
+    }
+  }
+  
