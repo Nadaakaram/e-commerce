@@ -33,7 +33,8 @@ nav {
 }
 
 button,
-#logout-btn {
+#logout-btn,
+.homeBtn {
   padding: 0.6rem 1.2rem;
   border: none;
   border-radius: 25px;
@@ -43,12 +44,12 @@ button,
   text-decoration: none;
 }
 
-#cart-btn {
+#cart-btn,.homeBtn {
   background-color: #f0f4ef;
   color: #4a6f57;
 }
 
-#cart-btn:hover {
+#cart-btn:hover ,.homeBtn:hover {
   background-color: #e0e8df;
 }
 

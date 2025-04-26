@@ -74,6 +74,8 @@ function addToCartFromCard() {
   if (cartCount) {
     cartCount.textContent = cart.length;
   }
+  cartCount.style.display = "flex";
+  
   console.log(cart);
   let message = document.createElement("div");
   message.innerHTML = `
@@ -87,15 +89,15 @@ function addToCartFromCard() {
     message.style.display = "none";
   }, 2000);
 
-  document.getElementById("cart-btn").addEventListener("click", openCart);
 
-  function openCart() {
-    window.location.href = "cart.html";
-  }
 
 
 }
+document.getElementById("cart-btn").addEventListener("click", openCart);
 
+function openCart() {
+  window.location.href = "cart.html";
+}
 if (cart.length > 0) {
   cartCount.textContent = cart.length;
   cartCount.style.display = "flex";

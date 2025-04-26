@@ -33,7 +33,7 @@ nav {
   gap: 1.5rem;
 }
 
-button {
+button, .homeBtn {
   padding: 0.6rem 1.2rem;
   border: none;
   border-radius: 25px;
@@ -42,9 +42,12 @@ button {
   transition: all 0.3s ease;
 }
 
-#cart-btn {
+#cart-btn,.homeBtn {
   background-color: #f0f4ef;
   color: #2d6a4f;
+}
+.homeBtn{
+  text-decoration: none;
 }
 #cart-btn i {
   position: relative;

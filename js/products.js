@@ -130,6 +130,7 @@ function addToCart(productId) {
     cart.push(product);
     localStorage.setItem("cart", JSON.stringify(cart));
     cartCount.textContent = cart.length;
+    cartCount.style.display = "flex";
 
     showMessage("Product added to cart!", "success");
   } else {
