@@ -29,12 +29,12 @@ function displayCartItems() {
     let cartItem = document.createElement("div");
     cartItem.className = "col-12 border-bottom pb-3";
     cartItem.innerHTML = `
-      <div class="d-flex justify-content-between align-items-center">
+      <div class="d-flex justify-content-between align-items-center p-2">
         <div>
           <h5>${item.name}</h5>
           <p class="text-muted mb-1">Price: $${item.price}</p>
         </div>
-        <button class="btn btn-danger btn-sm remove-from-cart" data-id="${item.id}">Remove</button>
+        <button class="btn btn-danger ms-5 remove-from-cart" data-id="${item.id}">Remove</button>
       </div>
     `;
     cartList.appendChild(cartItem);
