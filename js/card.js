@@ -37,7 +37,7 @@ if (product) {
 }
 
 document.getElementById("logo").addEventListener(("click"),()=>{
-  window.location.href = "products.html";
+  window.location.href = "index.html";
 
 })
 function generateStars(rating) {

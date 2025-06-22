@@ -71,7 +71,7 @@ document.getElementById("sort-filter").addEventListener("change", () => {
 });
 
 document.getElementById("logo").addEventListener(("click"),()=>{
-  window.location.href = "products.html";
+  window.location.href = "index.html";
 
 })
 

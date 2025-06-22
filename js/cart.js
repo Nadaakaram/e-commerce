@@ -87,7 +87,7 @@ function buyNow() {
 
 
 document.getElementById("logo").addEventListener("click", () => {
-  window.location.href = "products.html";
+  window.location.href = "index.html";
 });
 
 const scrollToTopBtn = document.getElementById("scrollToTopBtn");

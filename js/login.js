@@ -24,7 +24,7 @@ document.getElementById("loginForm").addEventListener("submit", function (e) {
   if (email && password) {
     if (storedUserData && storedUserData.email === email && storedUserData.password === password) {
       alert("Login successful!");
-      window.location.href = "products.html"; 
+      window.location.href = "index.html"; 
     } else {
       loginError.textContent = "Invalid email or password.";
       loginError.style.color = "red";
