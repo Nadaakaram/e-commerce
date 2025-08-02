@@ -238,12 +238,32 @@ button,.homeBtn {
 }
 
 @media (max-width: 480px) {
+
   nav {
-    width: 100%;
-    flex-direction: column;
-    align-items: flex-start;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0.5rem 3%;
+    background-color: white;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.05);
+    position: sticky;
+    top: 0;
+    z-index: 100;
   }
 
+  .logo {
+    font-size: 1rem;
+    font-weight: 700;
+    color: #4a6f57;
+    cursor: pointer;
+  }
+  .nav-links {
+    gap: 0.3rem;
+  }
+  .logout-text,
+  .cart-text {
+    display: none;
+  }
   .nav-links {
     gap: 1rem;
   }
@@ -260,4 +280,45 @@ button,.homeBtn {
   #product-list {
     grid-template-columns: 1fr;
   }
+  .plant-footer {
+  background: #f5f5f5;
+  color: #333;
+  font-family: "Poppins", sans-serif;
+  padding: 40px 0 20px;
+  justify-content: center;
+  border-top: 1px solid #e0e0e0;
+}
+  .footer-top {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  max-width: 250px;
+  margin: 0 auto;
+  padding: 0 10px 15px;
+}
+.footer-col {
+  flex: 1;
+  min-width: 250px;
+  margin-bottom: 20px;
+  padding: 0 15px;
+}
+
+.footer-logo {
+  width: 120px;
+  border-radius: 50%;
+  margin-bottom: 15px;
+}
+
+.footer-desc {
+  color: #5a5a5a;
+  line-height: 1.6;
+  font-size: 14px;
+}
+
+.footer-col h3 {
+  color: #2e7d32;
+  font-size: 18px;
+  margin-bottom: 10px;
+}
+
 }
